@@ -4,7 +4,7 @@
 */
 if(!defined('sugarEntry'))define('sugarEntry', true);
 
-die("Prueba..");
+die("Prueba 1 GIT HUB");
 
 /*********************************************************************************
  * The contents of this file are subject to the SugarCRM Public License Version
